@@ -1,10 +1,8 @@
 import React from 'react'
-import { motion } from "framer-motion";
+import HeroSection from '@/components/sections/homepage/HeroSection'
 
-const page = () => {
-  return (
-    <div>page</div>
-  )
+export default function Home() {
+  return <main className="flex min-h-screen flex-col bg-[#121212] countainer nx-auto px-12 py-4">
+    <HeroSection />
+  </main>
 }
-
-export default page
