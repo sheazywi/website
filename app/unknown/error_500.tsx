@@ -1,7 +1,5 @@
 import React from 'react'
 
-export const error_500 = () => {
-  return (
-    <div>error_500</div>
-  )
+export default function Custom500() {
+  return <h1>500 - Server-side error occurred</h1>
 }
