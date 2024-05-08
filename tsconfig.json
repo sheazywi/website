@@ -33,7 +33,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-  ],
+, "components/sections/homepage/AboutSection.jsx", "components/sections/homepage/AchievementSection.jsx", "components/sections/homepage/EmailSection.jsx", "components/sections/homepage/HeroSection.jsx", "components/sections/homepage/TabButton.jsx", "components/sections/homepage/HeroSection.jsx", "components/sections/homepage/HeroSection.jsx", "components/sections/homepage/AboutSection.jsx", "components/sections/homepage/AchievementSection.jsx", "components/sections/homepage/TabButton.jsx", "components/sections/homepage/AchievementSection.sx", "app/api/send/route.js"  ],
   "exclude": [
     "node_modules"
   ]
